@@ -1,6 +1,6 @@
-package com.fhou77.jdklearn;
+package com.fhou77.test;
 
-public class JdkLearnApplication {
+public class TestRunApplication {
     public static void main(String args[]) {
         try {
             int[] array = new int[5];
@@ -22,5 +22,4 @@ public class JdkLearnApplication {
         }
         System.out.println("-------------------------");
     }
-}
 }
